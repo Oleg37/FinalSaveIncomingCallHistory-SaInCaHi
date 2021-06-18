@@ -10,4 +10,4 @@ Proyecto de recuperación -> Número 1
  - Métodos de ordenación (Externa y Interna) dependiendo.
  - Y... más cosas por descubrir :).
 
-### *En esta práctia se realiza mediante ficheros.*
+### *Esta práctia se realiza mediante ficheros.*
