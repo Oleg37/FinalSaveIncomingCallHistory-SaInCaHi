@@ -1,0 +1,29 @@
+<!--
+  ~ Copyright (c) 2021. ArseneLupin0.
+  ~
+  ~ Licensed under the GNU General Public License v3.0
+  ~
+  ~ https://www.gnu.org/licenses/gpl-3.0.html
+  ~
+  ~ Permissions of this strong copyleft license are conditioned on making available complete source
+  ~ code of licensed works and modifications, which include larger works using a licensed work,
+  ~ under the same license. Copyright and license notices must be preserved. Contributors provide
+  ~ an express grant of patent rights.
+  -->
+
+<resources>
+    <string name="app_name">SaInCaHi Project</string>
+
+    <!-- Preference Titles -->
+    <string name="extern_label">Ficheros en memoria externa</string>
+    <string name="intern_label">Ficheros en memoria interna</string>
+
+    <string name="extern_value">externa</string>
+    <string name="intern_value">interna</string>
+    <string name="filetype">File type</string>
+    <string name="filetype_key">memorytype</string>
+
+    <string name="menu_title">Guardar en memoria</string>
+    <string name="menu_summary">Guarde sus archivos en memoria interna o externa.</string>
+
+</resources>
